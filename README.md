@@ -18,7 +18,8 @@ Search for a workflow template called "Static HTML" (or you can create your own 
 
 Save the workflow file as .github/workflows/static.yml in your project repository.
 
-```
+<pre>
+```bash
 ## Open a Pull Request (PR)
 
 Go to your repository on GitHub.
@@ -31,7 +32,10 @@ Assign reviewers if needed.
 
 Merge the PR into main after approval.
 
+  ``` </pre>
 
+<pre>
+```bash
 ## GitHub Actions Trigger
 
 After merging, a push event occurs on the main branch.
@@ -39,3 +43,8 @@ After merging, a push event occurs on the main branch.
 This triggers the static.yml GitHub Actions workflow.
 
 The site is deployed automatically to GitHub Pages.
+    ``` </pre>
+
+📖 Reference
+Lecture: 5 July — Importance and Benefits of CI
+
