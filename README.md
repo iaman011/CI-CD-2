@@ -30,7 +30,7 @@ Review the changes.
 Assign reviewers if needed.
 
 Merge the PR into main after approval.
-<br/>
+
 
 ## GitHub Actions Trigger
 
