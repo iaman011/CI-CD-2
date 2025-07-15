@@ -1,4 +1,4 @@
-📦 Project: CI-CD-2
+📦 Project: CI-CD-2 <br/>
 🌐 Deployment Link:
 https://iaman011.github.io/CI-CD-2/
 
@@ -19,7 +19,7 @@ Search for a workflow template called "Static HTML" (or you can create your own 
 Save the workflow file as .github/workflows/static.yml in your project repository.
 
 ```
-Open a Pull Request (PR)
+## Open a Pull Request (PR)
 
 Go to your repository on GitHub.
 
@@ -30,6 +30,7 @@ Review the changes.
 Assign reviewers if needed.
 
 Merge the PR into main after approval.
+<br/>
 
 ## GitHub Actions Trigger
 
